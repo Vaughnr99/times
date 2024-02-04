@@ -1,0 +1,27 @@
+.button {
+    font-family: Arial, Helvetica, sans-serifS;
+    font-size: 15px; 
+    margin-left: 0.8%;
+    margin-top: 15px;
+    border-color: white;
+    border-radius: 8px;
+   border: solid;
+    cursor: pointer;
+    transition: box-shadow 0,15s;
+
+
+
+}
+
+
+.button:hover{
+
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.15);
+}
+
+
+.button:active {
+    background-color: pink;
+    color: white;
+    opacity: 0.5s;
+}

@@ -1,0 +1,76 @@
+.body{
+    background-color: black;
+}
+
+
+.text{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+    padding-left: 615px;
+    padding-top: 245px;
+    
+}
+
+.emoji {
+    position: relative;
+    padding-top: 10px;
+    padding-left: 742px;
+   
+}
+
+.strong{
+
+    font-size: 40px;
+}
+
+
+.button-new {
+    position: relative;
+    padding-left: 732px;
+    padding-top: 13px;
+    border-radius: 10px;
+    border: none; 
+    transition: 0.5s ;
+    
+}
+
+.Yess {
+  margin-right: 10px;
+  cursor: pointer;
+  background-color: rgb(162, 8, 8);
+  color: white;
+  font-weight: bold;
+}
+
+.Yess:hover{
+    opacity: 0.3;
+    background-color: rgb(208, 84, 84);
+}
+
+.No {
+    
+    background-color: rgb(162, 8, 8);
+    color: white;
+    font-weight: bold;
+    
+
+}
+
+.No:hover {
+position: absolute;
+background-color: black;
+ color: black;
+ border: 0px;
+ padding-left: 5%;
+}
+
+.a{
+    color: white;
+    background-color: black;
+}
+
+
+

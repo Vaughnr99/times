@@ -1,0 +1,25 @@
+.body {
+    background-color: black;
+}
+
+.ph {
+  margin-left: 40%;
+  margin-top: 10%;
+  width: 800px;
+  
+}
+
+.div{
+
+    width: 100px;
+    height: 50px;
+    padding-left: 20%;
+    
+}
+
+.yey {
+  color: white;
+  padding-left: 45%; 
+  font-size: 60px;
+  padding-top: 160px;
+}
